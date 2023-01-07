@@ -1,4 +1,4 @@
-package Jan05;
+package Vid15;
 
 public class CeilingChar {
     public static void main(String[] args) {
