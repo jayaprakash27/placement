@@ -9,7 +9,7 @@ public class InfiniteSortedArray{
     static int ans(int[] nums,int target){
         int start = 0;
         int end = 1;
-        while(target > nums[end]){
+        while(target > nums[end]){ 
             int newstart = end+1;
             end = end + (end-start +1)*2;
             start = newstart;
