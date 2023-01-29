@@ -30,7 +30,7 @@ Must-Do LinkedList Questions:
 ### Stacks, Binary Search, Heap & Sliding Window
 https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists
 
-###Hashing:
+### Hashing:
 https://www.youtube.com/watch?v=K7BTtcU0n-Q&list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p&index=26&t=0s
 
 ### Graphs:
