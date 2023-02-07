@@ -20,5 +20,6 @@ public class Arraysg {
                 System.out.println(numbers[i][j] + " ");
             }
         }
+        sc.close();
     }
 }

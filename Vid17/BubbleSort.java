@@ -1,4 +1,3 @@
-package Vid17;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -12,6 +11,7 @@ public class BubbleSort {
             arr[i] = sc.nextInt();
         }
         System.out.println(Arrays.toString(bubble(arr)));
+        sc.close();
     }
     public static int[] bubble(int[] arr) {
         for(int i = 0; i< arr.length; i++){
