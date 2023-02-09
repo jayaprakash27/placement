@@ -13,6 +13,7 @@ public class EvenDigitsNumber {
         for(int num: findNumbers(nums)){
             System.out.println(num);
         }
+        sc.close();
     }
 
     static ArrayList<Integer> findNumbers(int[] nums) {
